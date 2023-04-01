@@ -1,0 +1,11 @@
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\bin\Debug\BinsouboryUkol3.exe.config
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\bin\Debug\BinsouboryUkol3.exe
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\bin\Debug\BinsouboryUkol3.pdb
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.csproj.AssemblyReference.cache
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.csproj.SuggestedBindingRedirects.cache
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.Properties.Resources.resources
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.csproj.GenerateResource.cache
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.csproj.CoreCompileInputs.cache
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.exe
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.pdb
+D:\prgProjects\BinsouboryUkol3\BinsouboryUkol3\obj\Debug\BinsouboryUkol3.Form1.resources
